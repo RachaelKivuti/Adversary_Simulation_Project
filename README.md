@@ -77,18 +77,20 @@ This project was conducted in a **controlled environment** for **educational and
 
 ## Author
 
-**[Rachael Kivuti]**  
+**Rachael Kivuti**  
+
 Offensive Security Enthusiast | Red Teaming 
+
 [LinkedIn](#https://www.linkedin.com/in/rachael-kivuti-575056226/) • [Medium](#https://medium.com/@kivutingatha) • 
 
 ---
 
-## 🔒 Full Report
+## Full Report
 
 The complete PDF report includes:
 - Screenshots of each phase
 - Technical details of payloads and modules
 - Python scripts used for encryption
 
-👉 *Available upon request to recruiters or hiring managers.*
+
 

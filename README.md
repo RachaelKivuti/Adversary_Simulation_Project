@@ -86,7 +86,7 @@ This project was conducted in a **controlled environment** for **educational and
 
 **Rachael Kivuti**  
 
-Offensive Security Enthusiast | Red Teaming 
+Offensive Security | Red Teaming 
 
 [LinkedIn](https://www.linkedin.com/in/rachael-kivuti-575056226/) • [Medium](https://medium.com/@kivutingatha) • 
 

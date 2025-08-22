@@ -1,7 +1,8 @@
-# GlobalTech Adversary Simulation Project
+# GlobalTech Adversary Simulation Exercise
 
 This project simulates a **realistic multi-phase cyber attack** on a fictional enterprise network using industry-standard tools and techniques. It showcases end-to-end penetration testing workflows — from initial access to data exfiltration — conducted in a controlled lab environment.
 
+The complete report documentation for the simulation: [Link](#https://github.com/RachaelKivuti/Lab_Project/blob/main/GlobalTech_Adversary_Simulation_Project_by_Rachael_Kivuti.pdf)
 ---
 
 ## Project Overview

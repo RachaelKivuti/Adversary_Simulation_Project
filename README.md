@@ -2,7 +2,13 @@
 
 This project simulates a **realistic multi-phase cyber attack** on a fictional enterprise network using industry-standard tools and techniques. It showcases end-to-end penetration testing workflows — from initial access to data exfiltration — conducted in a controlled lab environment.
 
-The complete report documentation for the simulation: [Link](#https://github.com/RachaelKivuti/Lab_Project/blob/main/GlobalTech_Adversary_Simulation_Project_by_Rachael_Kivuti.pdf)
+## Full Report
+The complete PDF report includes:
+- Screenshots of each phase
+- Technical details of payloads and modules
+- Python scripts used for encryption
+The complete report documentation for the simulation: [Link](https://github.com/RachaelKivuti/Lab_Project/blob/main/GlobalTech_Adversary_Simulation_Project_by_Rachael_Kivuti.pdf)
+
 ---
 
 ## Project Overview
@@ -82,16 +88,7 @@ This project was conducted in a **controlled environment** for **educational and
 
 Offensive Security Enthusiast | Red Teaming 
 
-[LinkedIn](#https://www.linkedin.com/in/rachael-kivuti-575056226/) • [Medium](#https://medium.com/@kivutingatha) • 
-
----
-
-## Full Report
-
-The complete PDF report includes:
-- Screenshots of each phase
-- Technical details of payloads and modules
-- Python scripts used for encryption
+[LinkedIn](https://www.linkedin.com/in/rachael-kivuti-575056226/) • [Medium](https://medium.com/@kivutingatha) • 
 
 
 
